@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hola Mundo 3</string>
+
+
+    <string name="saludo">say hellou</string>
+    <string name="pulsar">haz clic</string>
+    <string name="escribe">dime tu nombre</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="saludoRecoger">........</string>
+
+</resources>
