@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+
+    <string name="titulo">COLORES 1</string>
+
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+
+    <string name="ponerColor">Poner color</string>
+    <string name="borrar">Borrar</string>
+
+    <string name="fondoRojo"></string>
+    <string name="fondoVerde"></string>
+    <string name="fondoAzul"></string>
+
+
+
+
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+
+    <string name="titulo">COLORES 2</string>
+
+    <string name="color1">Color1</string>
+    <string name="color2">Color2</string>
+    <string name="color3">Color3</string>
+
+    <string name="borrar">Borrar</string>
+
+    <string name="texto"></string>
+
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>

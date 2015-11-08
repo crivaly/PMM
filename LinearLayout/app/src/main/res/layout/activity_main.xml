@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:text="@string/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <RadioGroup
+        android:id="@+id/gruporb"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="32dp">
+
+        <RadioButton
+            android:id="@+id/rojo"
+            android:checked="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rojo" />
+
+        <RadioButton
+            android:id="@+id/verde"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/verde" />
+
+        <RadioButton
+            android:id="@+id/azul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/azul" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/boton1"
+        android:text="@string/ponerColor"
+        android:layout_width="wrap_content"
+        android:layout_height="61dp"
+        android:layout_below="@+id/gruporb"
+        android:layout_alignRight="@+id/gruporb"
+        android:layout_alignEnd="@+id/gruporb" />
+
+    <Button
+        android:id="@+id/boton2"
+        android:text="@string/borrar"
+        android:layout_width="wrap_content"
+        android:layout_height="61dp"
+        android:layout_below="@+id/gruporb"
+        android:layout_toLeftOf="@+id/boton1"
+        android:layout_toStartOf="@+id/boton1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/fondoRojo"
+        android:id="@+id/fondo"
+        android:layout_below="@+id/boton2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="43dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/boton1"
+        android:layout_alignEnd="@+id/boton1" />
+
+
+</RelativeLayout>
