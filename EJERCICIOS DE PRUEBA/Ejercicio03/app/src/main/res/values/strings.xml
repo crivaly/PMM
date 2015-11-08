@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ejercicio03 - descuentos</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="titulo">selecciona </string>
+    <string name="descuentoo">descuento</string>
+    <string name="aplicar">aplicar descuento</string>
+    <string name="texto"></string>
+
+    <string name="uno">android 900€</string>
+    <string name="dos">java 700€</string>
+    <string name="tres">python 800€</string>
+
+
+    <string name="primero">descuento del 20%</string>
+    <string name="segundo">descuento del 30%</string>
+
+
+
+</resources>

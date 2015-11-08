@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio02</string>
+    <string name="title_activity_second"> pantalla 2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="titulo">mandar y recibir datos</string>
+    <string name="editText">introduce un texto</string>
+    <string name="pasar">Mandar a la segunda pantalla</string>
+
+    <string name="vista"></string>
+    <string name="volver">volver a la primera ventana</string>
+
+</resources>
