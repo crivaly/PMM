@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Primera_pantalla</string>
+    <string name="title_activity_segunda_pantalla">Segunda_pantalla</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+    <string name="titulo">¡¡ PIZZERIA ONLINE !!</string>
+    <string name="cb1">+ Grande</string>
+    <string name="cb2">+ Ingredientes </string>
+    <string name="cb3">+ Sabrosa </string>
+    <string name="radioButton1">En local </string>
+    <string name="radioButton2">Envío a domicilio </string>
+    <string name="rb3">Carbonara 10€</string>
+    <string name="rb4">Hawaiana 20€</string>
+    <string name="rb5">Barbacoa 30€</string>
+    <string name="hint">Numero de unidades: </string>
+    <string name="button">TOTAL PEDIDO</string>
+    <string name="textView2">$$$$$$</string>
+    <string name="pedirFactura">PEDIR FACTURA</string>
+
+
+
+
+    <string name="factura">Pizza</string>
+    <string name="factura2">Precio Base:</string>
+    <string name="factura3">Extra</string>
+    <string name="factura4">Unidades:</string>
+    <string name="factura5">Envio:</string>
+    <string name="factura6">COSTE FINAL</string>
+
+
+
+</resources>
